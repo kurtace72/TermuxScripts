@@ -5,6 +5,8 @@
 function exitTermux {
 	kill -9 $PPID
 	}
+	
+trap exitTermux INT
 
 echo ''
 echo "Quico's Android Terminal"
