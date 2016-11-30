@@ -17,6 +17,7 @@ echo ''
 curl -s -N http://wttr.in/mogofores | head -n 7
 
 echo ''
+echo ''
 echo 'Your tasks for today:'
 echo ''
 wunderline today
