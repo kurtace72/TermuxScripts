@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 # Init script for my termux environment
 # Termux doesn't support logins so I'm writing this more for show than for anything else
 
