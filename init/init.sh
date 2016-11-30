@@ -25,4 +25,3 @@ break; else printf "\n** Code 403 **\n"; exitTermux; fi;;
         * ) echo "** Code 403 **"; exitTermux;;
     esac
 
-./welcome.sh
