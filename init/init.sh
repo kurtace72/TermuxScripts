@@ -39,3 +39,7 @@ echo " \______/ \__|  \__|    \__|     \______/  \______/     \__|    ";
 echo ''
 echo 'Logged In!'
 echo ''
+
+echo 'Your tasks for today:'
+echo ''
+wunderline today
