@@ -13,6 +13,8 @@ echo " \______/ \__|  \__|    \__|     \______/  \______/     \__|    ";
 echo ''
 echo 'Logged In!'
 echo ''
+python2 nf.py
+echo ''
 
 curl -s -N http://wttr.in/mogofores | head -n 7
 
